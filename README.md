@@ -50,7 +50,7 @@ MongoDB onde fica todas notificações e sistema de fila com o Redis para emails
 Dê um git clone no projeto em qualquer pasta de sua preferência. Antes de tudo você deverá ter os servidores para os banco de dados Postgres, MongoDB e Redis. Após isso, vá em cada pasta backend, frontend e mobile e dê um:
 
 ```sh
-yarn ou npm
+yarn install ou npm install
 ```
 
 Para instalar as dependências.
